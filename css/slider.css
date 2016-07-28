@@ -27,7 +27,7 @@ a{
   width:20%;
 }
 .slider .slider-img li.active{
-  transition:all .3s ease-in-out;
+  transition:all 1s ease-in-out;
 }
 .slider .slider-img li a{
   display:block;
@@ -45,7 +45,7 @@ a{
   height:100%;
   cursor:pointer;
   opacity:0;
-  transition:all .2s ease-in;
+  transition:all 1s ease-in;
 }
 .slider .slider-left:hover,
 .slider .slider-right:hover{
